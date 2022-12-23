@@ -18,7 +18,7 @@ tujuan dari source code ini yaitu mencari nilai yang tidak habis dibagi 3, 5, da
       #include <iostream>
       using namespace std;
       int main (){
-      int array [30][30];
+      int array [20][20];
       int b, k, i, j;
       cout << "Masukkan jumlah baris : ";
       cin >> b;
